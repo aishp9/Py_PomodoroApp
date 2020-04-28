@@ -1,5 +1,5 @@
 # PomodoroApp With Python
-A minimalistic user friendly desktop Pomodoro timer desktop application. 
+A minimalistic user friendly Pomodoro timer desktop application. 
 Now go pomodoro your way through stressful assignments and tasks!! :)
 
 ## Description
