@@ -14,7 +14,7 @@ There are six steps in the original technique of Pomodoro:
 6)After four pomodoros, take a longer break (15–30 minutes), reset your checkmark count to zero, then go to step 1.  
 
 Most implementations of this application is predominantly in JS, Java or C. I decided to make an application with Python.
-The GUI part was built with the help of tkinter module in python. This can be run as a MacOS desktop application.
+The GUI part was built with the help of tkinter module in python. This can be run as a desktop application. (Unix/Linux/MacOS)
 
 
 ### To Do/Future Plans:  
