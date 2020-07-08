@@ -18,7 +18,7 @@ The GUI part was built with the help of tkinter module in python. This can be ru
 
 
 ### To Do/Future Plans:  
-1) Intend to create feature to allow user defined Pomodoro intervals for break and work sessions.  
+1) Intend to create feature to allow customised Pomodoro intervals for break and work sessions.  
 2) Make GUI more vibrant and smooth
 3) Favourite Idea is to create a feature that also stores the tasks to be done! 0__0
 4) Overcome and research more about the diffiulties I faced while developing the application in MacOS due to lot of compatibility issues between tkinter, pygame, mac interface, anaconda. T_T   
